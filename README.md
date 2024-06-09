@@ -5,4 +5,4 @@
   <br>
   branching.
   <br>
-  pushing with merging and change.
+  pushing with merging and changing.
